@@ -1,0 +1,6 @@
+D:\programowanie materiały\Gotowe Aplikacjie\DependencyInjectionExample\DependencyInjectionExample\bin\Debug\DependencyInjectionExample.exe.config
+D:\programowanie materiały\Gotowe Aplikacjie\DependencyInjectionExample\DependencyInjectionExample\bin\Debug\DependencyInjectionExample.exe
+D:\programowanie materiały\Gotowe Aplikacjie\DependencyInjectionExample\DependencyInjectionExample\bin\Debug\DependencyInjectionExample.pdb
+D:\programowanie materiały\Gotowe Aplikacjie\DependencyInjectionExample\DependencyInjectionExample\obj\Debug\DependencyInjectionExample.csprojResolveAssemblyReference.cache
+D:\programowanie materiały\Gotowe Aplikacjie\DependencyInjectionExample\DependencyInjectionExample\obj\Debug\DependencyInjectionExample.exe
+D:\programowanie materiały\Gotowe Aplikacjie\DependencyInjectionExample\DependencyInjectionExample\obj\Debug\DependencyInjectionExample.pdb
